@@ -6,3 +6,4 @@ mx110
 AX200无线网卡
 需解锁CFGlOCk
 DVMT需设置为64M
+使用MOD版OC引导，不会影响Windows
