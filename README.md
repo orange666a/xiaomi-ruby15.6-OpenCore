@@ -11,7 +11,7 @@ macOS12 B10测试通过
 
 AX200无线网卡，如果你是博通免驱卡，需删掉相关蓝牙wifi驱动，并修改config
 
-需解锁CFGlOCk
+需解锁CFG
 
 DVMT需设置为64M
 
